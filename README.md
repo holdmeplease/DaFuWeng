@@ -17,30 +17,30 @@ pycharm2018.3.4(windows x64)
 
 1.初始界面：
 
-![image](https://github.com/holdmeplease/mahjong-game/raw/master/开始游戏.png)
+![image](https://github.com/holdmeplease/DaFuWeng/raw/master/开始游戏.png)
 
 鼠标点击“开始游戏”
 
 2.选择游戏人数界面：
 
-![image](https://github.com/holdmeplease/mahjong-game/raw/master/输入游戏人数.png)
+![image](https://github.com/holdmeplease/DaFuWeng/raw/master/输入游戏人数.png)
 
 键盘输入相应数字即可
 
 3.掷骰子界面：
 
-![image](https://github.com/holdmeplease/mahjong-game/raw/master/掷骰子.png)
+![image](https://github.com/holdmeplease/DaFuWeng/raw/master/掷骰子.png)
 
 按键盘“上箭头”键掷骰子（后面基本只使用“上箭头”键表示确定）
 
 4.买地界面：
 
-![image](https://github.com/holdmeplease/mahjong-game/raw/master/买地.png)
+![image](https://github.com/holdmeplease/DaFuWeng/raw/master/买地.png)
 
 按键盘“上箭头”键确定，其余任意键表示不买
 
 5.游戏结束界面：
 
-![image](https://github.com/holdmeplease/mahjong-game/raw/master/游戏介绍.png)
+![image](https://github.com/holdmeplease/DaFuWeng/raw/master/游戏介绍.png)
 
 如有任何问题请联系790918637@qq.com
