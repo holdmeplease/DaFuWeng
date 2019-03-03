@@ -17,7 +17,7 @@ pycharm2018.3.4(windows x64)
 
 1.初始界面：
 
-![image](https://github.com/holdmeplease/DaFuWeng/raw/master/开始游戏.png)
+![image](https://github.com/holdmeplease/DaFuWeng/raw/master/开始游戏.PNG)
 
 鼠标点击“开始游戏”
 
