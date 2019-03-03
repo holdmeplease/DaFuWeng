@@ -41,6 +41,6 @@ pycharm2018.3.4(windows x64)
 
 5.游戏结束界面：
 
-![image](https://github.com/holdmeplease/DaFuWeng/raw/master/游戏介绍.PNG)
+![image](https://github.com/holdmeplease/DaFuWeng/raw/master/游戏结束.PNG)
 
 如有任何问题请联系790918637@qq.com
