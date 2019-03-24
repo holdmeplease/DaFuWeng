@@ -16,11 +16,9 @@ pygame1.9.4
 pycharm2018.3.4(windows x64)
 
 
-游戏运行方法：（强烈推荐使用方法1）
+游戏运行方法：
 
-1.运行dist文件夹中的dfw.exe（需保证build文件夹存在）
-
-2.按照仓库中的文件结构使用pycharm运行dfw.py（不用管dist和build文件夹
+按照仓库中的文件结构使用pycharm运行dfw.py
 
 
 操作指南：按鼠标左键开始游戏、按键盘“↑”键进行掷骰子与买地操作
