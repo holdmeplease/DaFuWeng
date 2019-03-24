@@ -1,5 +1,10 @@
 # DaFuWeng
-一款使用pygame写成的大富翁小游戏。
+
+大富翁——清华之旅
+
+灵感来自于传统的大富翁游戏，在地图和人物中加入了清华大学元素
+
+详细的游戏介绍与操作指南见“用户文档_大富翁清华之旅.pdf”
 
 开发环境：
 
@@ -9,38 +14,16 @@ pygame1.9.4
 
 pycharm2018.3.4(windows x64)
 
-地图和人物中加入了清华大学元素，目前已可以正常进行游戏。
+游戏运行方法：（强烈推荐使用方法1）
 
-为了游戏的公平性和趣味性，后续还将通过测试微调一些数值。
+1.运行dist文件夹中的dfw.py（需保证build文件夹存在）
 
-游戏流程如下：（在pycharm下直接运行dfw.py即可）
+2.按照仓库中的文件结构使用pycharm运行dfw.py（不用管dist和build文件夹）
 
-1.初始界面：
+操作指南：按鼠标左键开始游戏、按键盘“↑”键进行掷骰子与买地操作
 
-![image](https://github.com/holdmeplease/DaFuWeng/raw/master/开始游戏.PNG)
+游戏截图：
 
-鼠标点击“开始游戏”
-
-2.选择游戏人数界面：
-
-![image](https://github.com/holdmeplease/DaFuWeng/raw/master/输入游戏人数.PNG)
-
-键盘输入相应数字即可
-
-3.掷骰子界面：
-
-![image](https://github.com/holdmeplease/DaFuWeng/raw/master/掷骰子.PNG)
-
-按键盘“上箭头”键掷骰子（后面基本只使用“上箭头”键表示确定）
-
-4.买地界面：
-
-![image](https://github.com/holdmeplease/DaFuWeng/raw/master/买地.PNG)
-
-按键盘“上箭头”键确定，其余任意键表示不买
-
-5.游戏结束界面：
-
-![image](https://github.com/holdmeplease/DaFuWeng/raw/master/游戏结束.PNG)
+![image](https://github.com/holdmeplease/DaFuWeng/raw/master/ScreenCut.PNG)
 
 如有任何问题请联系790918637@qq.com
