@@ -297,9 +297,9 @@ while True:
     elif status == 6:  # 游戏结束
         if game_over(player) > 0:
             draw_text(screen, (540, 340), '游戏结束，%s胜利' % player[game_over(player)-1].name,
-                      50, 'STXINGKA.TTF', pygame.Color('red'))
-            draw_text(screen, (540, 440), '再来一局' % player[game_over(player) - 1].name,
-                      50, 'STXINGKA.TTF', pygame.Color('red'))
+                      50, 'STXINGKA.TTF', pygame.Color('darkgreen'))
+            draw_text(screen, (540, 440), '再来一局',
+                      50, 'STXINGKA.TTF', pygame.Color('darkgreen'))
 
         else :
             draw_text(screen, (540, 340), '游戏结束，%s失败' % player[- game_over(player) - 1].name,
